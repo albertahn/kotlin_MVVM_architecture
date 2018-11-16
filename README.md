@@ -1,9 +1,5 @@
-# kotlin_MVVM_architecture
-MVVM architecture sample
+# MVVM & Architecture Components
 
-1. refference : https://android.jlelse.eu/architecture-components-mvp-mvvm-237eaa831096 
+This repository is an example of implementing the Architecture Components library in an MVVM architecture.
 
-2. https://drive.google.com/file/d/0B13EE_qsNQLpVGtSMl9mUm83Tkk/view 
-
-3. https://github.com/TSurkis/AppinionMVVM 
-
+It is part of an [article](https://medium.com/@t.surkiss/architecture-components-mvp-mvvm-237eaa831096) by [T.Surkis](http://tsurkis.com/).
